@@ -1,4 +1,3 @@
-```python
 from dp_model.model_files.sfcn import SFCN
 from dp_model import dp_loss as dpl
 from dp_model import dp_utils as dpu
@@ -10,7 +9,7 @@ import matplotlib.pyplot as plt
 # Example
 model = SFCN()
 model = torch.nn.DataParallel(model)
-fp_ = '/content/run_20190719_00_epoch_best_mae.p'
+fp_ = './brain_age/run_20190719_00_epoch_best_mae.p'
 model.load_state_dict(torch.load(fp_))
 model.cuda()
 
@@ -60,8 +59,3 @@ pred = prob@bc
 plt.bar(bc, prob)
 plt.title(f'Prediction: age={pred:.2f}\nloss={loss}')
 plt.show()
-```
-
-![](E:\大创\0725\01.png)
-
-![02](E:\大创\0725\02.png)
