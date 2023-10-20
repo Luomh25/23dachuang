@@ -1,0 +1,39 @@
+weekly exercise expenditure&Physical activity level&Time spent outdoors during summer&type and time spent in physical activity
+
+Baseline assessment center
+Ethnic background
+Hair color
+Fluid intelligence
+Household income
+household size
+
+Fresh vegetable and fruit intake
+Red meat intake
+Processed meat intake
+quantity of alcohol consumption
+smoking status (reported in categories:never/previous/current)
+
+Self-reported diabetes
+Family history of breast
+Family history of prostate cancer前列腺癌
+Family history of lung cancer肺癌
+Family history of colorectal cancer结直肠癌
+lifetime history of type two diabetes (T2D) 
+cardiovascular diseases(CVD)
+history of somatic diseases that could affect COVID-19 susceptibility or course
+
+Sunburn during childhood
+Solarium/sunlamp use
+Ease of skin tanning
+Use of sun/UV protection
+
+
+
+
+
+
+
+
+
+
+
