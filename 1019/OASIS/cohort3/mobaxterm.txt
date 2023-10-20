@@ -1,0 +1,5 @@
+cd /public/home/tianting/23dachuang/Gzm/OASIS-3
+
+qsub
+
+./download_oasis_scans_tar.sh MR_ID_unix downloaded_files_unix May 
